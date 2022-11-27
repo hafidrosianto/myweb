@@ -94,7 +94,7 @@
 										<img src="images/CV.png" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="https://drive.google.com/file/d/1x0-dteNxvsXIPlDklAuVb2XO0i2BIIYQ/view" target="_blank" class="link">Curriculum Vitae</a></h3>
+										<h3><a href="images/CV Hafid English 2022.pdf" target="_blank" class="link">Curriculum Vitae</a></h3>
 										<p>Click Here</p>
 									</header>
 								</article>
